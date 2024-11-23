@@ -1,0 +1,8 @@
+[0.000000] (-) TimerEvent: {}
+[0.000677] (odometry_processing) JobQueued: {'identifier': 'odometry_processing', 'dependencies': OrderedDict()}
+[0.000793] (odometry_processing) JobStarted: {'identifier': 'odometry_processing'}
+[0.099837] (-) TimerEvent: {}
+[0.200321] (-) TimerEvent: {}
+[0.261898] (odometry_processing) StderrLine: {'line': b'Traceback (most recent call last):\n  File "/usr/lib/python3/dist-packages/colcon_core/executor/__init__.py", line 91, in __call__\n    rc = await self.task(*args, **kwargs)\n  File "/usr/lib/python3/dist-packages/colcon_core/task/__init__.py", line 93, in __call__\n    return await task_method(*args, **kwargs)\n  File "/usr/lib/python3/dist-packages/colcon_ros/task/ament_python/build.py", line 54, in build\n    data_files = get_data_files_mapping(\n  File "/usr/lib/python3/dist-packages/colcon_core/task/python/__init__.py", line 42, in get_data_files_mapping\n    assert not os.path.isabs(source), \\\n  File "/usr/lib/python3.10/posixpath.py", line 62, in isabs\n    s = os.fspath(s)\nTypeError: expected str, bytes or os.PathLike object, not tuple\n'}
+[0.262991] (odometry_processing) JobEnded: {'identifier': 'odometry_processing', 'rc': 1}
+[0.272768] (-) EventReactorShutdown: {}
