@@ -14,7 +14,7 @@ def generate_launch_description():
 
     declare_odom_file_cmd = DeclareLaunchArgument(
         'odom_csv_file',
-        default_value=os.path.join(odom_csv_file_dir, "rosbag2_edit_24_11_24-01_18_03_kissodometry.csv"),
+        default_value=os.path.join(odom_csv_file_dir, "test_odom","rosbag2_edit_24_11_24-01_18_03_kissodometry.csv"),
         description='The path to odom csv file')
     
     start_plot = ExecuteProcess(

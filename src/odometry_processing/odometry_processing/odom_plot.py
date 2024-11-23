@@ -6,9 +6,9 @@ def plot_odometry(file_path):
     # Load the CSV file
     data = pd.read_csv(file_path)
 
-    # Extract position data
-    x = data['/kiss/odometry/pose/pose/position/x']
-    y = data['/kiss/odometry/pose/pose/position/y']
+    # Extract position data as 1D arrays
+    x = data['/kiss/odometry/pose/pose/position/x'].to_numpy()
+    y = data['/kiss/odometry/pose/pose/position/y'].to_numpy()
 
     # Plot the odometry path
     plt.figure(figsize=(10, 6))

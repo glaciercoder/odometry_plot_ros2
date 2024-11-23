@@ -1,0 +1,25 @@
+[0.346s] Invoking command in '/home/dssl/Projects/odometry_plot_ros2/src/odometry_processing': PYTHONPATH=/home/dssl/Projects/odometry_plot_ros2/build/odometry_processing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/odometry_processing build --build-base /home/dssl/Projects/odometry_plot_ros2/build/odometry_processing/build install --record /home/dssl/Projects/odometry_plot_ros2/build/odometry_processing/install.log --single-version-externally-managed install_data
+[0.471s] running egg_info
+[0.471s] writing ../../build/odometry_processing/odometry_processing.egg-info/PKG-INFO
+[0.472s] writing dependency_links to ../../build/odometry_processing/odometry_processing.egg-info/dependency_links.txt
+[0.472s] writing entry points to ../../build/odometry_processing/odometry_processing.egg-info/entry_points.txt
+[0.472s] writing requirements to ../../build/odometry_processing/odometry_processing.egg-info/requires.txt
+[0.472s] writing top-level names to ../../build/odometry_processing/odometry_processing.egg-info/top_level.txt
+[0.473s] reading manifest file '../../build/odometry_processing/odometry_processing.egg-info/SOURCES.txt'
+[0.473s] adding license file 'LICENSE'
+[0.473s] writing manifest file '../../build/odometry_processing/odometry_processing.egg-info/SOURCES.txt'
+[0.473s] running build
+[0.473s] running build_py
+[0.473s] copying odometry_processing/odom_plot.py -> /home/dssl/Projects/odometry_plot_ros2/build/odometry_processing/build/lib/odometry_processing
+[0.473s] running install
+[0.473s] running install_lib
+[0.474s] copying /home/dssl/Projects/odometry_plot_ros2/build/odometry_processing/build/lib/odometry_processing/odom_plot.py -> /home/dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/python3.10/site-packages/odometry_processing
+[0.474s] byte-compiling /home/dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/python3.10/site-packages/odometry_processing/odom_plot.py to odom_plot.cpython-310.pyc
+[0.474s] running install_data
+[0.474s] copying odometry_processing/odom_plot.py -> /home/dssl/Projects/odometry_plot_ros2/install/odometry_processing/share/odometry_processing
+[0.475s] running install_egg_info
+[0.475s] removing '/home/dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/python3.10/site-packages/odometry_processing-0.0.0-py3.10.egg-info' (and everything under it)
+[0.476s] Copying ../../build/odometry_processing/odometry_processing.egg-info to /home/dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/python3.10/site-packages/odometry_processing-0.0.0-py3.10.egg-info
+[0.476s] running install_scripts
+[0.487s] writing list of installed files to '/home/dssl/Projects/odometry_plot_ros2/build/odometry_processing/install.log'
+[0.500s] Invoked command in '/home/dssl/Projects/odometry_plot_ros2/src/odometry_processing' returned '0': PYTHONPATH=/home/dssl/Projects/odometry_plot_ros2/build/odometry_processing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/odometry_processing build --build-base /home/dssl/Projects/odometry_plot_ros2/build/odometry_processing/build install --record /home/dssl/Projects/odometry_plot_ros2/build/odometry_processing/install.log --single-version-externally-managed install_data
