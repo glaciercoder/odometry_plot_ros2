@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'gazebo_get_pub = record_data.gazebo_get_pub:main'
+            'gazebo_get_pub = record_data.gazebo_get_pub:main',
+            'record_data = record_data.record_data:main'
         ],
     },
 )

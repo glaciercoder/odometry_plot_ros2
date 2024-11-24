@@ -1,0 +1,22 @@
+[0.831s] Invoking command in '/home/glacier-dssl/Projects/odometry_plot_ros2/src/odometry_processing': PYTHONPATH=/home/glacier-dssl/Projects/odometry_plot_ros2/build/odometry_processing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/glacier-dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/odometry_processing build --build-base /home/glacier-dssl/Projects/odometry_plot_ros2/build/odometry_processing/build install --record /home/glacier-dssl/Projects/odometry_plot_ros2/build/odometry_processing/install.log --single-version-externally-managed install_data
+[1.062s] running egg_info
+[1.062s] writing ../../build/odometry_processing/odometry_processing.egg-info/PKG-INFO
+[1.062s] writing dependency_links to ../../build/odometry_processing/odometry_processing.egg-info/dependency_links.txt
+[1.063s] writing entry points to ../../build/odometry_processing/odometry_processing.egg-info/entry_points.txt
+[1.063s] writing requirements to ../../build/odometry_processing/odometry_processing.egg-info/requires.txt
+[1.063s] writing top-level names to ../../build/odometry_processing/odometry_processing.egg-info/top_level.txt
+[1.064s] reading manifest file '../../build/odometry_processing/odometry_processing.egg-info/SOURCES.txt'
+[1.064s] adding license file 'LICENSE'
+[1.065s] writing manifest file '../../build/odometry_processing/odometry_processing.egg-info/SOURCES.txt'
+[1.065s] running build
+[1.065s] running build_py
+[1.065s] running install
+[1.066s] running install_lib
+[1.067s] running install_data
+[1.067s] running install_egg_info
+[1.069s] removing '/home/glacier-dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/python3.10/site-packages/odometry_processing-0.0.0-py3.10.egg-info' (and everything under it)
+[1.069s] Copying ../../build/odometry_processing/odometry_processing.egg-info to /home/glacier-dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/python3.10/site-packages/odometry_processing-0.0.0-py3.10.egg-info
+[1.069s] running install_scripts
+[1.090s] Installing odom_plot script to /home/glacier-dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/odometry_processing
+[1.090s] writing list of installed files to '/home/glacier-dssl/Projects/odometry_plot_ros2/build/odometry_processing/install.log'
+[1.119s] Invoked command in '/home/glacier-dssl/Projects/odometry_plot_ros2/src/odometry_processing' returned '0': PYTHONPATH=/home/glacier-dssl/Projects/odometry_plot_ros2/build/odometry_processing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/glacier-dssl/Projects/odometry_plot_ros2/install/odometry_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/odometry_processing build --build-base /home/glacier-dssl/Projects/odometry_plot_ros2/build/odometry_processing/build install --record /home/glacier-dssl/Projects/odometry_plot_ros2/build/odometry_processing/install.log --single-version-externally-managed install_data

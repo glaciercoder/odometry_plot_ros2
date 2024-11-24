@@ -32,6 +32,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'odom_plot = odometry_processing.odom_plot:main'
         ],
     },
 )
