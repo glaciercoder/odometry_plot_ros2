@@ -17,7 +17,7 @@ class BagRecorderNode(Node):
         # Declare and read topic parameters
         self.declare_parameter('odometry_topic', '/kiss/odometry')
         self.declare_parameter('pose_topic', '/real_pose')
-        self.declare_parameter('robot_name', 'robot0')
+        self.declare_parameter('robot_name', 'robot2')
 
         self.odometry_topic = self.get_parameter('odometry_topic').get_parameter_value().string_value
         self.pose_topic = self.get_parameter('pose_topic').get_parameter_value().string_value

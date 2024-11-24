@@ -10,7 +10,7 @@ class GazeboStatePublisher(Node):
         super().__init__("gazebo_state_publisher")
 
         # Declare and read parameters
-        self.declare_parameter("entity_name", "robot0")
+        self.declare_parameter("entity_name", "robot2")
         self.declare_parameter("gazebo_service", "/gazebo/get_entity_state")
         self.declare_parameter("publish_topic", "/real_pose")
         self.declare_parameter("frequency", 10.0)  # Frequency in Hz

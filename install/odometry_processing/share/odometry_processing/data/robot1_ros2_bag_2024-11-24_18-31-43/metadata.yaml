@@ -1,0 +1,32 @@
+rosbag2_bagfile_information:
+  version: 5
+  storage_identifier: sqlite3
+  duration:
+    nanoseconds: 104950313818
+  starting_time:
+    nanoseconds_since_epoch: 1732444303307022572
+  message_count: 1268
+  topics_with_message_count:
+    - topic_metadata:
+        name: /real_pose
+        type: geometry_msgs/msg/PoseStamped
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 1051
+    - topic_metadata:
+        name: /kiss/odometry
+        type: nav_msgs/msg/Odometry
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 217
+  compression_format: ""
+  compression_mode: ""
+  relative_file_paths:
+    - robot1_ros2_bag_2024-11-24_18-31-43_0.db3
+  files:
+    - path: robot1_ros2_bag_2024-11-24_18-31-43_0.db3
+      starting_time:
+        nanoseconds_since_epoch: 1732444303307022572
+      duration:
+        nanoseconds: 104950313818
+      message_count: 1268
