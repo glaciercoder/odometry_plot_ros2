@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/record_data/record_data.egg-info
+writing ../../build/record_data/record_data.egg-info/PKG-INFO
+writing dependency_links to ../../build/record_data/record_data.egg-info/dependency_links.txt
+writing entry points to ../../build/record_data/record_data.egg-info/entry_points.txt
+writing requirements to ../../build/record_data/record_data.egg-info/requires.txt
+writing top-level names to ../../build/record_data/record_data.egg-info/top_level.txt
+writing manifest file '../../build/record_data/record_data.egg-info/SOURCES.txt'
+reading manifest file '../../build/record_data/record_data.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/record_data/record_data.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build
+creating /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build/lib
+creating /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build/lib/record_data
+copying record_data/gazebo_get_pub.py -> /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build/lib/record_data
+copying record_data/__init__.py -> /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build/lib/record_data
+running install
+running install_lib
+creating /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages/record_data
+copying /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build/lib/record_data/gazebo_get_pub.py -> /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages/record_data
+copying /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build/lib/record_data/__init__.py -> /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages/record_data
+byte-compiling /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages/record_data/gazebo_get_pub.py to gazebo_get_pub.cpython-310.pyc
+byte-compiling /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages/record_data/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/share/ament_index
+creating /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/share/ament_index/resource_index
+creating /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/share/ament_index/resource_index/packages
+copying resource/record_data -> /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/share/ament_index/resource_index/packages
+copying package.xml -> /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/share/record_data
+running install_egg_info
+Copying ../../build/record_data/record_data.egg-info to /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages/record_data-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gazebo_get_pub script to /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/record_data
+writing list of installed files to '/home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/install.log'

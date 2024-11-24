@@ -1,0 +1,25 @@
+[0.887s] Invoking command in '/home/glacier-dssl/Projects/odometry_plot_ros2/src/record_data': PYTHONPATH=/home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/record_data build --build-base /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build install --record /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/install.log --single-version-externally-managed install_data
+[1.119s] running egg_info
+[1.119s] writing ../../build/record_data/record_data.egg-info/PKG-INFO
+[1.119s] writing dependency_links to ../../build/record_data/record_data.egg-info/dependency_links.txt
+[1.119s] writing entry points to ../../build/record_data/record_data.egg-info/entry_points.txt
+[1.120s] writing requirements to ../../build/record_data/record_data.egg-info/requires.txt
+[1.120s] writing top-level names to ../../build/record_data/record_data.egg-info/top_level.txt
+[1.122s] reading manifest file '../../build/record_data/record_data.egg-info/SOURCES.txt'
+[1.122s] adding license file 'LICENSE'
+[1.123s] writing manifest file '../../build/record_data/record_data.egg-info/SOURCES.txt'
+[1.123s] running build
+[1.123s] running build_py
+[1.123s] copying record_data/gazebo_get_pub.py -> /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build/lib/record_data
+[1.124s] running install
+[1.124s] running install_lib
+[1.125s] copying /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build/lib/record_data/gazebo_get_pub.py -> /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages/record_data
+[1.125s] byte-compiling /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages/record_data/gazebo_get_pub.py to gazebo_get_pub.cpython-310.pyc
+[1.126s] running install_data
+[1.126s] running install_egg_info
+[1.128s] removing '/home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages/record_data-0.0.0-py3.10.egg-info' (and everything under it)
+[1.128s] Copying ../../build/record_data/record_data.egg-info to /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages/record_data-0.0.0-py3.10.egg-info
+[1.129s] running install_scripts
+[1.149s] Installing gazebo_get_pub script to /home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/record_data
+[1.149s] writing list of installed files to '/home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/install.log'
+[1.180s] Invoked command in '/home/glacier-dssl/Projects/odometry_plot_ros2/src/record_data' returned '0': PYTHONPATH=/home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/glacier-dssl/Projects/odometry_plot_ros2/install/record_data/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/record_data build --build-base /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/build install --record /home/glacier-dssl/Projects/odometry_plot_ros2/build/record_data/install.log --single-version-externally-managed install_data
